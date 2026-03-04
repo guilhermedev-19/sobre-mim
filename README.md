@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo **Guilherme Enzo**
 
-* 🎯 Estudante e de tecnologia e programação.
+* 🎯 Estudante de tecnologia e programação.
 * 📍 Belo Horizonte – MG, Brasil
 * 💻 Gosto de criar soluções simples para o dia a dia e projetos visuais (logos e edições de vídeos).
 * 🤖 Sou estudante de Engenharia de Software (1º período) na PUC Minas.
